@@ -145,7 +145,7 @@ export function Contact() {
                   <Github className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://www.facebook.com/impstr.py"
+                  href="https://www.facebook.com/umyr1est1c"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="facebook"
@@ -154,7 +154,7 @@ export function Contact() {
                   <Facebook className="w-5 h-5" />
                 </a>
                 <a
-                  href="mailto:hello@omayer.dev"
+                  href="mailto:bhuyinomayer@gmail.com"
                   aria-label="Email"
                   className="text-muted-foreground hover:text-primary transition-colors duration-200"
                 >
